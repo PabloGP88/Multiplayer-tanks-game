@@ -9,3 +9,6 @@ INSTRUCTIONS:
 -  Extract all the content in the zip file into another directory
 -  Open the .exe file
 -  Enjoy :)
+# Link to the zip file
+Click the link to the Drive Carpet and download there the zip file:
+https://drive.google.com/drive/folders/1Cc1pb-24RAZyzpj_8-tLdC-SoWmY_C_d?usp=sharing
